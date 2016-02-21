@@ -1,0 +1,13 @@
+{
+  "name": "sendurl",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
+}
